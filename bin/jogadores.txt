@@ -1,0 +1,4 @@
+Neymar,Atacante,33,Paris San German,33
+Lucas Prato,Atacante,33,Atletico Mineiro,18
+Nenen,Atacante,35,Vasco da Gama,15
+Carlos Bezerra,Atacante,22,Fortaleza,58
